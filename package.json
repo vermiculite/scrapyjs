@@ -1,0 +1,25 @@
+{
+  "name": "scrapyjs",
+  "version": "0.0.1",
+  "description": "A copy of the Python utility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vermiculite/scrapyjs.git"
+  },
+  "keywords": [
+    "scrapy",
+    "python",
+    "scraping",
+    "screenscraper"
+  ],
+  "author": "seanowenhayes@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vermiculite/scrapyjs/issues"
+  },
+  "homepage": "https://github.com/vermiculite/scrapyjs#readme"
+}
