@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "default": "$PROJECTNAME$.settings"
+  },
+  "deploy": {
+    "project": "$PROJECTNAME$"
+  }
+}
